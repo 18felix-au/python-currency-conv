@@ -1,2 +1,4 @@
-# python-currency-conv
+# Python Currency Conv
+
 A currency converter supporting mock exchange rates.
+
